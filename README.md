@@ -1,14 +1,14 @@
 # docs
-> documentation for fx-mui.
+> documentation for foresee mobile.
 
 ## Development
 ```shell
-make dev
+npm run dev
 ```
 
 ## Deploy
 ```shell
-make deploy
+npm run deploy
 ```
 
 
