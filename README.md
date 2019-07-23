@@ -1,2 +1,16 @@
-# fx-doc
-foresee移动端文档
+# docs
+> documentation for fx-mui.
+
+## Development
+```shell
+make dev
+```
+
+## Deploy
+```shell
+make deploy
+```
+
+
+## License
+MIT
