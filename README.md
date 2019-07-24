@@ -1,4 +1,4 @@
-# docs
+# fx-doc
 > documentation for foresee mobile.
 
 ## Development
