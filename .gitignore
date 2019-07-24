@@ -2,6 +2,5 @@
 .cache
 .DS_Store
 .idea
-dist
 lib
 node_modules
