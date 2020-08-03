@@ -1,5 +1,5 @@
 # fx-doc
-> documentation for foresee mobile.
+> documentation for fx-mobile.
 
 ## Development
 ```shell
