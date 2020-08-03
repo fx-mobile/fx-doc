@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/fx-mobile/fx-doc/issues"
   },
-  "author": "foresee",
+  "author": "jeffycai",
   "license": "MIT",
   "dependencies": {
     "sushi-ui": "^0.8.2",
