@@ -17,7 +17,7 @@ const route = {
     component: resolve => require(['./pages/README.md'], resolve),
     default_lang: defaultLang,
     langs: LANG_CONFIG.langs,
-    title: 'foresee docs'
+    title: 'fx-docs'
   },
   '/zh-cn2': {
     title: '概述',
